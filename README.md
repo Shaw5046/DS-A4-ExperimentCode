@@ -1,6 +1,6 @@
 Experimental method
 
-Run BCase1_X to get the results of X people voting in Byzantine mode.
+Run BCase1_X to get the results of X proposers voting in Byzantine mode.
 
-Run NonBCase1_X to get the X-person voting results in non-Byzantine mode.
+Run NonBCase1_X to get the X proposers voting results in non-Byzantine mode.
 
